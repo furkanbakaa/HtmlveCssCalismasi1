@@ -1,3 +1,2 @@
 # firstwebsite1
-Website deneme çalışmaları
- göndermek için.
+İlk Web Sitesi Denemesi
